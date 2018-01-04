@@ -1,2 +1,1 @@
-# TWDtest
-tango with django practice.
+# vimrc
